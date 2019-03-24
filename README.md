@@ -8,3 +8,5 @@ Since this is just source code, you might need the following to run:<br/>
 * JDK 11
 * Postgresql 11.2
 * PostgreSQL JDBC Driver 42.2.2
+
+*Note: if you want to run the code as is, you will need edit the DB connection info on DbAdapter.java to match yours.*
